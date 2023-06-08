@@ -2,7 +2,7 @@
 This project is about gait analysis with the help of laptop webcam or resource constrained computing devices such as mobile phone camera. The aim of this project is to classify the gait pattern as Normal or Abnormal or Near Abnormal using Bezier Curves. We are using hip, knee and ankle keypoints to find the Bezier curve of a particular leg of the subject(see the below figure).
 ![Idea](hypo.jpg)
 
-## For Live demo in browser using BlazePose model [click here](https://github.com/Shaan0123/Gait_Analysis_Using_BlazePose/tree/main/app/Camera/Blaze-Pose2D_C_Bezier_Offline/)
+## For Live demo in browser using BlazePose model [click here](https://irfan925.github.io/BlazePoseLive/)
 
 ### Range of Angles
 In the below figure, each cycle represents the range of ankle angle for the left leg of the subject and gait cycle(%) represents a complete gait cylce which is the duration of the first heel strike to the second heel strike of the same leg. S1Video1 is the first video of the first subject. Each subject has two video recordings.
